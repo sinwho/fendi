@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fendi/static/css/main.52f9b1e7.css",
-    "main.js": "/fendi/static/js/main.fdc6bd5d.js",
+    "main.js": "/fendi/static/js/main.6d9f22ad.js",
     "static/js/787.22437525.chunk.js": "/fendi/static/js/787.22437525.chunk.js",
     "static/media/main2.jpg": "/fendi/static/media/main2.f8151e549954a2ce498a.jpg",
     "static/media/fendace2.jpg": "/fendi/static/media/fendace2.7145cbadd3ac96a1015d.jpg",
@@ -30,11 +30,11 @@
     "static/media/slick.woff": "/fendi/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/fendi/index.html",
     "main.52f9b1e7.css.map": "/fendi/static/css/main.52f9b1e7.css.map",
-    "main.fdc6bd5d.js.map": "/fendi/static/js/main.fdc6bd5d.js.map",
+    "main.6d9f22ad.js.map": "/fendi/static/js/main.6d9f22ad.js.map",
     "787.22437525.chunk.js.map": "/fendi/static/js/787.22437525.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52f9b1e7.css",
-    "static/js/main.fdc6bd5d.js"
+    "static/js/main.6d9f22ad.js"
   ]
 }
